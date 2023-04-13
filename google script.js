@@ -1,4 +1,4 @@
-const POST_URL = "WEBBHOOK URL";
+var POST_URL = "WEBBHOOK URL";
 
 function onSubmit(e) {
     const response = e.response.getItemResponses();
