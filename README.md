@@ -126,3 +126,6 @@ An optional customization you can make to footer text, is to add an icon image w
   }]
 }
 ```
+
+### Discord Embed Documentation
+For further documentation regarding Discord embeds, please see [here](https://discord.com/developers/docs/resources/channel#embed-object)
